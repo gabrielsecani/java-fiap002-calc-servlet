@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Calculadora</title>
+<style>
+	select,input[type=text] {width:40px;}
+</style>
+</head>
+<body>
+<form action="calcular" method="get">
+N&uacute;mero 1:
+<input type="text" name="txtNumero1"/>
+Operação
+<select name="operacao">
+	<option value="+">+</option>
+	<option value="-">-</option>
+	<option value="*">*</option>
+	<option value="/">/</option>
+</select>
+N&uacute;mero 2:
+<input type="text" name="txtNumero2"/><br/>
+<input type="submit" value="Calcular"/><br/>
+</form>
+</body>
+</html>
