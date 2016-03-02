@@ -7,14 +7,21 @@ rem ## fonte: https://aircrack.wordpress.com/2014/02/12/problem-solving-git-erro
 
 git config --system http.sslcainfo c:\\git\\mingw64\\ssl\\certs\\ca-bundle.crt
 
+
 git config --system user.name Gabriel Lucas
+
 git config --system user.email gabrielltr84@gmail.com
 
+
 git config --system user.name Lucas Gomide
+
 git config --system user.email lucaslg200@gmail.com
 
+
 git config --system user.name Fernando Seguim
+
 git config --system user.email fernando.seguim@gmail.com
+
 
 # README #
 
