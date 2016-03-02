@@ -1,4 +1,3 @@
-<%@page import="org.w3c.dom.html.HTMLButtonElement"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <%@ page import="java.util.Date" %>
